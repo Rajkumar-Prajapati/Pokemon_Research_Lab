@@ -1,8 +1,10 @@
 
-
 # first setup the react project using the command
 npm install -g create-react-app
 npx create-react-app pokemon_research
+
+# For project run
+npm start
 
 # install Zustand 
 npm install zustand
@@ -50,3 +52,7 @@ direct paste the CDN Link in Index.html file
 
 
 3. PokeApi rate Limits: manually settings for limits to avoid the breaking ui for large dataset.
+
+# Pokemon_Research_Lab
+Purpose of this project to fetch the dataset of all Pokemon it from the PokeApi( using react.js fetch and tailwindcss , zustand for state management , for uploading csv files used  papaparse etc )
+
