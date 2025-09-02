@@ -14,7 +14,7 @@ npm start
 ## 📸 Screenshot
 
 
-![Homepage Screenshot](HomePage.png)
+![Homepage Screenshot](HomePageSs.png)
 
 
 
