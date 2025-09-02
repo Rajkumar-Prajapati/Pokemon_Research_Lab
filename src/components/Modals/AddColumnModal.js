@@ -25,7 +25,7 @@ export default function AddColumnModal() {
         <option value="number">Number</option>
         <option value="boolean">Boolean</option>
       </select>
-      <button className="bg-blue-500 text-white px-3 py-1 rounded" onClick={handleAdd}>
+      <button className="bg-blue-500 text-white px-3 py-1 rounded cursor-pointer" onClick={handleAdd}>
         Add Column
       </button>
     </div>

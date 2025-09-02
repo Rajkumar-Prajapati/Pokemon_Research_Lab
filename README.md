@@ -6,6 +6,10 @@ npx create-react-app pokemon_research
 # For project run
 npm start
 
+# front page UI
+
+pokemon_research\public\images\frontpage.png
+
 # install Zustand 
 npm install zustand
 

@@ -9,7 +9,7 @@ export default function ExportButton() {
 
   return (
     <button
-      className="bg-green-500 text-white px-4 py-2 rounded m-4"
+      className="bg-green-500 text-white px-4 py-2 rounded m-4 cursor-pointer"
       onClick={() => exportToCSV(data)}
     >
       Export CSV
