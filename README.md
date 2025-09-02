@@ -1,23 +1,29 @@
 
 # first setup the react project using the command
 npm install -g create-react-app
+
 npx create-react-app pokemon_research
 
 # For project run
 npm install
+
 npm start
 
 # front page UI
 
 ## 📸 Screenshot
-![App Screenshot](./HomePage.png)
+
+
+![App Screenshot](HomePage.png)
 
 # install Zustand 
+
 npm install zustand
 
 npm install papaparse
 
 # setup the tailwind css 
+
 direct paste the CDN Link in Index.html file
   <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
