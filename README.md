@@ -14,7 +14,8 @@ npm start
 ## 📸 Screenshot
 
 
-![App Screenshot](HomePage.png)
+![Homepage Screenshot](./HomePage.png)
+
 
 # install Zustand 
 
